@@ -15,7 +15,7 @@ export const TeamItem = ({teamItem: {name, nickname }, id}) => {
       <Text style={[styles.team]}>
       {name} ({nickname})</Text>
       <Pressable>
-        <Entypo name={'trash'} size={20} onPress={onRemove} />
+        <Entypo name={'trash'} size={26} onPress={onRemove} />
       </Pressable>
     </View>
   );

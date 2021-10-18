@@ -97,13 +97,13 @@ export default StyleSheet.create({
     paddingHorizontal: 8,
     paddingVertical: 5,
     marginRight: 10,
-    minWidth: '80%'
+    minWidth: '70%'
   },
   member: {
     paddingHorizontal: 8,
     paddingVertical: 5,
     marginRight: 10,
-    minWidth: '80%'
+    minWidth: '70%'
   },
   teamHeader: {
     paddingHorizontal: 8,

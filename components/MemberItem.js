@@ -16,7 +16,7 @@ export const MemberItem = ({memberItem: {
       <Text style={[styles.member]}>
       {firstname} {lastname} ({nickname})</Text>
       <Pressable>
-        <Entypo name={'trash'} size={20} onPress={onRemove} />
+        <Entypo name={'trash'} size={26} onPress={onRemove} />
       </Pressable>
     </View>
   );
